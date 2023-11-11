@@ -5,7 +5,7 @@
   "main": "main.js",
   "homepage": "https://vzvanov.github.io/sudoku-solver",
   "scripts": {
-    "deploy": "gh-pages -d "
+    "deploy": "gh-pages -d app"
   },
   "keywords": [],
   "author": "",
