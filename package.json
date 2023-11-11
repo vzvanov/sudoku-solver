@@ -1,0 +1,16 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "This application allows you to solve Sudoku of any complexity.",
+  "main": "main.js",
+  "homepage": "https://vzvanov.github.io/sudoku-solver",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
